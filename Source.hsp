@@ -1,0 +1,15 @@
+bgscr 0,5000,5000,,0,0
+color 0,125,255:boxf
+mouse -1
+mes" "
+font "Yu Gothic UI",200
+color 255,255,255
+mes"  :("
+font "Yu Gothic UI",30
+mes" "
+mes"               Your PC ran into a problem that it couldn't"
+mes"               handle, and now it needs to restart."
+mes" "
+font "Yu Gothic UI",20
+mes"                        You can search for the error online: CRITICAL_PROCESS_DIED (myfault.sys)"
+mes" "
